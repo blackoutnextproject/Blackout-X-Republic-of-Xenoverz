@@ -24,6 +24,23 @@ Modul Magisk Dinamis yang dirancang untuk memberikan pengalaman gaming maksimal 
 
 ---
 
+## 📜 Changelog Versi Terbaru (v1.0.5.0 [Burning 🔥 Whyded])
+
+### Tanggal Rilis: [Isi tanggal rilis]
+
+#### ✨ Fitur Utama Baru
+* **Dynamic Mode & Thermal Logic:** Implementasi sistem utama yang otomatis beralih mode dengan logika Thermal Profile spesifik (PUBG vs. Game Lain).
+* **RAM Management System:** Optimasi agresif pada VM dan ZRAM untuk perangkat RAM 4GB (Fokus pada Swappiness dan Dirty Ratios).
+* **Spoof Device & Chipset:** Penambahan spoofing untuk membuka kunci HDR-EXTREME dan FPS tertinggi.
+* **GMS Doze:** Pengoptimalan Google Play Services untuk mengurangi konsumsi daya baterai saat idle.
+* **Reset Guest (PUBG):** Fitur reset akun tamu khusus untuk PUBG Mobile.
+
+#### 🛠️ Peningkatan & Perbaikan Sistem
+* **Peningkatan Stabilitas:** Logika inisialisasi `gamelist.json` dipindahkan dari `customize.sh` ke `service.sh` untuk menjamin *file persistence* saat *boot*.
+* **Optimasi Loop:** Penyesuaian waktu *sleep* di *main loop* menjadi 2 detik.
+
+---
+
 ## ⚙️ Petunjuk Penggunaan dan Konfigurasi
 
 ### A. Konfigurasi Daftar Game (`gamelist.json`)
