@@ -25,11 +25,11 @@ Modul Magisk Dinamis yang dirancang untuk memberikan pengalaman gaming maksimal 
 ---
 
 # 📜 ***Changelog Versi Terbaru***
-v1.0.5.0 **[Burning 🔥 Whyded]**
+## v1.0.5.0 **[Burning 🔥 Whyded]**
 
-## Tanggal Rilis: [Isi tanggal rilis]
+### Tanggal Rilis: [Isi tanggal rilis]
 
-#### ✨ Fitur Utama Baru
+##### ✨ Fitur Utama Baru
 * **Dynamic Mode & Thermal Logic:** Implementasi sistem utama yang otomatis beralih mode dengan logika Thermal Profile spesifik (PUBG vs. Game Lain).
 * **RAM Management System:** Optimasi agresif pada VM dan ZRAM untuk perangkat RAM 4GB (Fokus pada Swappiness dan Dirty Ratios).
 * **Spoof Device & Chipset:** Penambahan spoofing untuk membuka kunci HDR-EXTREME dan FPS tertinggi.
