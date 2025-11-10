@@ -36,13 +36,13 @@ Modul Magisk Dinamis yang dirancang untuk memberikan pengalaman gaming maksimal 
 * **GMS Doze:** Pengoptimalan Google Play Services untuk mengurangi konsumsi daya baterai saat idle.
 * **Reset Guest (PUBG):** Fitur reset akun tamu khusus untuk PUBG Mobile.
 
-#### 🛠️ Peningkatan & Perbaikan Sistem
+##### 🛠️ Peningkatan & Perbaikan Sistem
 * **Peningkatan Stabilitas:** Logika inisialisasi `gamelist.json` dipindahkan dari `customize.sh` ke `service.sh` untuk menjamin *file persistence* saat *boot*.
 * **Optimasi Loop:** Penyesuaian waktu *sleep* di *main loop* menjadi 2 detik.
 
 ---
 
-## ⚙️ Petunjuk Penggunaan dan Konfigurasi
+# ⚙️ Petunjuk Penggunaan dan Konfigurasi
 
 ### A. Konfigurasi Daftar Game (`gamelist.json`)
 
