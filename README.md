@@ -4,7 +4,7 @@
 
 | Version | Codename | Download |
 | :--- | :--- | :--- |
-| **v1.0.5.0** | Burning 🔥 Whyded | [Link Download Terbaru] |
+| **v1.0.5.0** | Burning 🔥 Whyded | [[Link Download Terbaru](https://github.com/blackoutnextproject/Blackout-X-Republic-of-Xenoverz/releases/download/1.0.5.0/Blackout-X-Republic-of-Xenoverz.zip)] |
 
 Modul Magisk Dinamis yang dirancang untuk memberikan pengalaman gaming maksimal dan efisiensi baterai optimal. Blackout-X secara otomatis mendeteksi ketika sebuah game berjalan dan menyesuaikan pengaturan sistem (CPU, RAM, Thermal, dan Spoofing) sesuai kebutuhan, kemudian mengembalikannya ke mode seimbang saat game ditutup.
 
