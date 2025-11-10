@@ -27,7 +27,7 @@ Modul Magisk Dinamis yang dirancang untuk memberikan pengalaman gaming maksimal 
 # 📜 ***Changelog Versi Terbaru***
 v1.0.5.0 **[Burning 🔥 Whyded]**
 
-### Tanggal Rilis: [Isi tanggal rilis]
+## Tanggal Rilis: [Isi tanggal rilis]
 
 #### ✨ Fitur Utama Baru
 * **Dynamic Mode & Thermal Logic:** Implementasi sistem utama yang otomatis beralih mode dengan logika Thermal Profile spesifik (PUBG vs. Game Lain).
