@@ -24,7 +24,8 @@ Modul Magisk Dinamis yang dirancang untuk memberikan pengalaman gaming maksimal 
 
 ---
 
-## 📜 Changelog Versi Terbaru (v1.0.5.0 [Burning 🔥 Whyded])
+## 📜 Changelog Versi Terbaru
+v1.0.5.0 **[Burning 🔥 Whyded]**
 
 ### Tanggal Rilis: [Isi tanggal rilis]
 
