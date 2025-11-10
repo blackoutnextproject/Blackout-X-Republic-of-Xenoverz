@@ -3,7 +3,10 @@
 ![Blackout-X Banner](https://raw.githubusercontent.com/blackoutnextproject/Blackout-Project-Banner/main/Blackout-banner.jpg)
 
 | Version | Codename |
+| :--- | :--- | :--- |
 | (v1.0.5.0) | [Burning 🔥 Whyded] |
+
+
 Modul Magisk Dinamis yang dirancang untuk memberikan pengalaman gaming maksimal dan efisiensi baterai optimal. Blackout-X secara otomatis mendeteksi ketika sebuah game berjalan dan menyesuaikan pengaturan sistem (CPU, RAM, Thermal, dan Spoofing) sesuai kebutuhan, kemudian mengembalikannya ke mode seimbang saat game ditutup.
 
 ---
